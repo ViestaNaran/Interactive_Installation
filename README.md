@@ -1,7 +1,7 @@
 # Interactive_Installation
 Interactive Instalment at Viking Museum
 
-This project was for The Danish Vikingship Museum in Roskilde. 
+This project was made for The Danish Vikingship Museum in Roskilde. 
 The assignment was to create an instalment of interaktive objects that would expand upon the museums exhibition.
 
 My role in this project was as that of a project and creative leader.
