@@ -9,7 +9,7 @@ My role in this project was as that of a project and creative leader.
 I developed this project with Morten, Frederik , Mikkel and Nicolai. 
 
 I lead the project as it was my creative vision we were developing, but I could not have done it without the others. 
-This was early in my education and i had not yet learned the technical skills to pull it off. 
+This was early in my education and I had not yet aquired the technical skills to pull it off. 
 
 Frederik and Morten developed the code
 Nicolai was our lighting technician
@@ -17,7 +17,7 @@ Mikkel helped me with building the physical objects, and also drew up the storyb
 
 https://www.youtube.com/watch?v=uSPzucRV0UA&t=4s
 This link shows me presenting the project at the museum. The video is made by the museum and focuses alot on the discussion of the
-effects of the objects, but throughout the video all the effects are shown. 
+objects, their effects and how they work in conjunction with the setting of the museum, but throughout the video all the effects are shown. 
 
 
 The project includes a drum with sound effect, an anvil + hammer with lighting and sound effects, a vikinghorn with sound effect,
